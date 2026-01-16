@@ -6,7 +6,7 @@ hi
 
 First, clone this repository to your computer.
 ```{bash}
-git clone GITHUBLINK
+git clone https://github.com/coreymichaud/pandas-vs-sql.git
 ```
 
 Once you're in the repository, install the requirements.
