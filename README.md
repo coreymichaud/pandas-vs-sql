@@ -1,6 +1,6 @@
 # Hello!
 
-hi
+WIP! Still need to create 2 CSV files as tables and complete the notebook.
 
 # Setup
 
