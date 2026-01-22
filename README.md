@@ -2,6 +2,8 @@
 
 WIP! Still need to create 2 CSV files as tables and complete the notebook.
 
+The data for this notebook was taken from [Bike Store Relational Database | SQL](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database?select=customers.csv) on [Kaggle](https://www.kaggle.com).
+
 # Setup
 
 First, clone this repository to your computer.
